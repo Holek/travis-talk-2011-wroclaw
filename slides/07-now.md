@@ -3,21 +3,21 @@
 
 !SLIDE bullets
 # Facts!
-* 1,700 Repositories
-* 30,000 Commits
-* 117,000 Builds
+* 3 500 Repositories
+* 74 000 Commits
+* 210 000 Builds
 
 !SLIDE bullets strike-through
 # Facts!
-* 1,700 Repositories
-* 30,000 Commits
-* 117,000 Builds
+* 3 500 Repositories
+* 74 000 Commits
+* 210 000 Builds
 
 !SLIDE bullets
 # Facts!
-* 2000 Repositories
-* 40,000 Commits
-* 170,000 Builds
+* 3 800 Repositories
+* 77 000 Commits
+* 277 000 Builds
 
 !SLIDE bullets
 # Users?
@@ -37,13 +37,13 @@
 
 !SLIDE bullets gosh
 # GOSH
-* github-services bundler slimgems railscasts diaspora couch_potato active_admin
-* simple_form ruby-on-rails-tmbundle liquid execjs jenkins.rb nifty-generators active_merchant
+* github-services slimgems railscasts diaspora couch\_potato active\_admin birthday
+* simple\_form ruby-on-rails-tmbundle liquid execjs jenkins.rb nifty-generators active\_merchant
 * grape request-log-analyzer refinerycms koala linguist htty vcr nested_form oauth2 savon ruby-warrior
 * communityengine i18n uglifier engineyard multi_json phony octokit pusher-gem parslet split globalize3
-* cloudist squeel russian themes_for_rails whois make_resourceful routing-filter girl_friday tire
+* cloudist squeel russian themes\_for\_rails whois make_resourceful routing-filter girl\_friday tire
 * rack-protection boom blather linkedin fabrication money curb restfulie chunky_png slop
-* faraday ripple serve celluloid stamp broadcast forem mongoid-tree tabtab
+* faraday ripple serve celluloid stamp broadcast forem mongoid-tree tabtab nyan-cat-formatter
 
 !SLIDE bullets
 # By the way ...
@@ -57,12 +57,12 @@
 # Today
 * Erlang
 * Closujre
+* PHP
 * Node.js
 
 !SLIDE bullets
 # Real soon
 * Python
-* PHP
 * Cocoa
 
 !SLIDE bullets center tweets love

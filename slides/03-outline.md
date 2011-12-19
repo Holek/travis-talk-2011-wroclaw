@@ -22,5 +22,3 @@
 * Why
 * How
 * Now
-* Then
-* Q & A
